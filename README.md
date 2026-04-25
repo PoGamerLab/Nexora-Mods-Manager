@@ -1,3 +1,5 @@
+[![Downloads](https://img.shields.io/github/downloads/Blur009/Blur-AutoClicker/total?style=for-the-badge&label=downloads)](https://github.com/Blur009/Blur-AutoClicker/releases)
+
 # Nexora Mod Manager
 
 A modern, fast, and polished Minecraft mod manager built for a superior desktop experience.
