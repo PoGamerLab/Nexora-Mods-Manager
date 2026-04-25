@@ -5,7 +5,9 @@
 I play Minecraft and when Minecraft has an update I have to download Minecraft mods for that Minecraft version so I can keep playing Minecraft with the updates. The thing is it takes a long time to do this and it can be really frustrating. I look for an application that can help me with this. I do not find any application that does this. This is why I decided to make this application, for Minecraft player to make their life easy.
 
 <!-- SEARCH TAB SCREENSHOT -->
-  ![Search Mods](screenshots/search.png)
+<div align="center">
+  <img src="screenshots/search.png" width="600"/>
+</div>
 
 ## Features
 
@@ -54,8 +56,11 @@ By default Nexora stores its data, settings and cache in:
 ## Configuration
 
 <!-- SETTINGS TAB SCREENSHOT -->
-![Settings](screenshots/settings1.png)
-![Settings](screenshots/settings2.png)
+<div align="center">
+  <img src="screenshots/settings1.png" width="600"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/settings2.png" width="600"/>
+</div>
 
 Nexora has several configuration options:
 - **Theme selection**. Choose between light mode.
