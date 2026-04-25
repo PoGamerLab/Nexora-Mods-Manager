@@ -1,7 +1,7 @@
 {
     "latest_version": "1.0.0",
     "min_supported_version": "1.0.0",
-    "download_url": "https://github.com/pogamerlab/Nexora/releases/latest",
+    "download_url": "https://github.com/PoGamerLab/Nexora-Mods-Manager/releases/latest",
     "changelog": "Initial release.",
     "critical": false,
     "disabled": false,
