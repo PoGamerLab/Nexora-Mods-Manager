@@ -29,7 +29,7 @@ I play Minecraft and when Minecraft has an update I have to download Minecraft m
 
 <!-- INSTALLER / SETUP WIZARD SCREENSHOT -->
 <div align="center">
-  <img src="screenshots/setup.png" width="400"/>
+  <img src="screenshots/setup.png" width="800"/>
 </div>
 
 ### Prebuilt Executable (Recommended)
