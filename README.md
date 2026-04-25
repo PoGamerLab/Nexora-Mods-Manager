@@ -14,7 +14,7 @@ I play Minecraft and when Minecraft has an update I have to download Minecraft m
 * **The right version every time**. Nexora makes sure you get the version of the mod that works with your Minecraft version.
 * **Keep your mods organized**. All your mods are sorted out and easy to find.
 * **It works fast and does not slow down your computer**. Nexora is made to be fast and not use up much memory.
-* 
+  
 ### Mod Loader Support
 * **Fabric**. We fully support Fabric mods.
 * **Forge**. You can use Forge mods without any issues.
