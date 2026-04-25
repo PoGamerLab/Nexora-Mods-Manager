@@ -1,8 +1,8 @@
 {
-    "latest_version": "1.0.0",
+    "latest_version": "1.0.1",
     "min_supported_version": "1.0.0",
     "download_url": "https://github.com/PoGamerLab/Nexora-Mods-Manager/releases/latest",
-    "changelog": "Initial release.",
+    "changelog": "Fixed progress bar visibility in dark mode, removed duplicate launch dialogs, QSS theme fixes.",
     "critical": false,
     "disabled": false,
     "message": ""
