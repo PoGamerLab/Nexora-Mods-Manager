@@ -2,7 +2,7 @@
 
 ## Why I made it:
 
-I play Minecraft and when Minecraft has an update I have to download Minecraft mods for that Minecraft version so I can keep playing Minecraft with the updates. The thing is it takes a time to do this and it can be really frustrating. When I look for Minecraft mod packs I do not find Minecraft mod packs. I also look for an application that can help me with this. I do not find any application that does this. This is why I decided to make this application, for Minecraft.
+I play Minecraft and when Minecraft has an update I have to download Minecraft mods for that Minecraft version so I can keep playing Minecraft with the updates. The thing is it takes a long time to do this and it can be really frustrating. I look for an application that can help me with this. I do not find any application that does this. This is why I decided to make this application, for Minecraft player to make their life easy.
 
 ## Features
 
