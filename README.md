@@ -1,71 +1,61 @@
-
 # Nexora Mod Manager
-
-A modern, fast, and polished Minecraft mod manager built for a superior desktop experience.
 
 ## Why I made it:
 
-Managing Minecraft mods should feel simple, fast, and enjoyable. Many tools feel outdated, cluttered, or slow. I wanted to build something modern that looks clean, works smoothly, and makes installing or updating mods effortless.
-
-Nexora Mod Manager is designed for players who want a better desktop experience with powerful features and a polished interface.
-
-## Screenshots
-
-*(Add screenshots of the application here showing the main interface, mod search, settings, and update dialog)*
+I play Minecraft and when Minecraft has an update I have to download Minecraft mods for that Minecraft version so I can keep playing Minecraft with the updates. The thing is it takes a time to do this and it can be really frustrating. When I look for Minecraft mod packs I do not find Minecraft mod packs. I also look for an application that can help me with this. I do not find any application that does this. This is why I decided to make this application, for Minecraft.
 
 ## Features
 
 ### Core Features
 
-* 🔍 **Fast mod search and discovery** - Search Modrinth with real-time filtering
-* 📦 **One-click install and updates** - Download and manage mods effortlessly
-* 🧩 **Easy mod management** - View, organize, and update your mod library
-* 🔄 **Smart version compatibility** - Automatic version matching for your Minecraft version
-* 📁 **Organized mod library** - Clean categorization and filtering options
-* ⚡ **Smooth and responsive performance** - Optimized for speed and low memory usage
-
+* **Find mods quickly**. You can search for mods on Modrinth and it will show you the results away.
+* **Get mods with one click**. This makes it easy to download and manage your mods.
+* **Manage your mods easily**. You can look at all your mods organize them and update them when you need to.
+* **The right version every time**. Nexora makes sure you get the version of the mod that works with your Minecraft version.
+* **Keep your mods organized**. All your mods are sorted out and easy to find.
+* **It works fast and does not slow down your computer**. Nexora is made to be fast and not use up much memory.
+* 
 ### Mod Loader Support
-
-* **Fabric** - Full support for Fabric mods
-* **Forge** - Full support for Forge mods  
-* **NeoForge** - Full support for NeoForge mods
-* **Quilt** - Support for Quilt mods
-* **Legacy Forge** - Support for older Forge versions
+* **Fabric**. We fully support Fabric mods.
+* **Forge**. You can use Forge mods without any issues.
+* **NeoForge**. Our support for NeoForge mods is complete.
+* **Quilt**. We offer support for Quilt mods.
+* **Legacy Forge**. Older Forge versions are also supported.
 
 ## Installation
 
-### Pre-built Executable (Recommended)
+### Prebuilt Executable (Recommended)
 
-1. Download `Nexora.exe` from the [latest release](https://github.com/PoGamerLab/Modrinth-Mods-Manager/releases)
-2. Run the application
-3. Complete first-time setup wizard
-4. Start managing your mods
+1. Get `Nexora.exe` from the [ release](https://github.com/PoGamerLab/Modrinth-Mods-Manager/releases).
+2. Run the application.
+3. Follow the setup wizard.
+4. Start managing your mods.
 
 ## System Requirements
 
-* **OS:** Windows 10 or Windows 11
-* **Internet:** Required for mod downloads and updates
-* **Storage:** 100MB+ for application, additional space for mods
-* **RAM:** 2GB minimum, 4GB recommended
+* **OS:** You need Windows 10 or Windows 11.
+* **Internet:** A connection is required for downloading and updating mods.
+* **Storage:** Ensure you have 100MB+ free for the application, plus extra space for mods.
+* **RAM:** 2GB is the minimum. 4GB is recommended.
 
 ## Storage Location
 
-By default, Nexora stores app data, settings, and cache in:
-- **Windows:** `%APPDATA%\Nexora`
-- 
+By default Nexora stores its data, settings and cache in:
+- **Windows:** `%
+
 ## Configuration
 
-Nexora supports various configuration options including:
-- **Theme selection** - Dark or light mode
-- **Mod folder path** - Custom installation directory
-- **Download settings** - Speed limits, retry count
-- **Update preferences** - Automatic or manual update checks
-- **Performance mode** - Low-end mode for older systems
-- **Cache settings** - Image cache size, disk limits
+Nexora has several configuration options:
+- **Theme selection**. Choose between light mode.
+- **Mod folder path**. Pick a custom directory for your mods.
+- **Download settings**. Set speed limits and retry counts.
+- **Update preferences**. Decide if you want manual updates.
+- **Performance mode**. Use a low-end mode for systems.
+- **Cache settings**. Manage image cache size and disk limits.
 
 ## License
 
-All rights reserved. Nexora is proprietary software unless stated otherwise in future releases.
+All rights are reserved. Nexora is proprietary unless stated otherwise.
 
 ## Author
 
@@ -73,8 +63,8 @@ Created by PoGamerLab.
 
 ## Support the Project!
 
-If you enjoy Nexora Mod Manager, share it with friends and support future updates.
+If you like Nexora Mod Manager share it. Help future updates.
 
 ## Contributing
 
-This is a personal project. For bug reports or feature requests, please open an issue on GitHub.
+This project is personal. For bugs or features open an issue, on GitHub.
