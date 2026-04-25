@@ -92,9 +92,7 @@ Nexora Mod Manager is designed for players who want a better desktop experience 
 
 By default, Nexora stores app data, settings, and cache in:
 - **Windows:** `%APPDATA%\Nexora`
-- **macOS:** `~/Library/Application Support/Nexora`
-- **Linux:** `~/.local/share/Nexora`
-
+- 
 ## Configuration
 
 Nexora supports various configuration options including:
