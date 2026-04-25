@@ -53,8 +53,8 @@ By default Nexora stores its data, settings and cache in:
 ## Configuration
 
 <!-- SETTINGS TAB SCREENSHOT -->
-![Settings](screenshots/settings.png)
-
+![Settings](screenshots/settings1.png)
+![Settings](screenshots/settings2.png)
 Nexora has several configuration options:
 - **Theme selection**. Choose between light mode.
 - **Mod folder path**. Pick a custom directory for your mods.
