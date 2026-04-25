@@ -41,7 +41,7 @@ I play Minecraft and when Minecraft has an update I have to download Minecraft m
 ## Storage Location
 
 By default Nexora stores its data, settings and cache in:
-- **Windows:** `%
+- **Windows:** "AppData\Roaming\Nexora"
 
 ## Configuration
 
