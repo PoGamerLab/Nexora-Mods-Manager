@@ -28,7 +28,9 @@ I play Minecraft and when Minecraft has an update I have to download Minecraft m
 ## Installation
 
 <!-- INSTALLER / SETUP WIZARD SCREENSHOT -->
-![Setup Wizard](screenshots/setup.png)
+<div align="center">
+  <img src="screenshots/setup.png" width="400"/>
+</div>
 
 ### Prebuilt Executable (Recommended)
 
