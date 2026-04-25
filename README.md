@@ -58,7 +58,6 @@ By default Nexora stores its data, settings and cache in:
 <!-- SETTINGS TAB SCREENSHOT -->
 <div align="center">
   <img src="screenshots/settings1.png" width="600"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="screenshots/settings2.png" width="600"/>
 </div>
 
