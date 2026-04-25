@@ -50,36 +50,6 @@ Nexora Mod Manager is designed for players who want a better desktop experience 
 3. Complete first-time setup wizard
 4. Start managing your mods
 
-### Building from Source
-
-**Requirements:**
-- Python 3.11 or higher
-- Windows 10 or Windows 11
-- Internet connection for initial setup
-
-**Steps:**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/PoGamerLab/Modrinth-Mods-Manager.git
-   cd Modrinth-Mods-Manager
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the application:
-   ```bash
-   python main.py
-   ```
-
-4. (Optional) Build executable:
-   ```bash
-   python build_exe.py
-   ```
-
 ## System Requirements
 
 * **OS:** Windows 10 or Windows 11
