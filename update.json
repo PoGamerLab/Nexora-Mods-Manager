@@ -2,6 +2,8 @@
     "latest_version": "1.0.1",
     "min_supported_version": "1.0.0",
     "release_date": "2025-04-25",
+    "download_url": "https://github.com/PoGamerLab/Nexora-Mods-Manager/releases/latest",
+    "direct_download_url": "https://github.com/PoGamerLab/Nexora-Mods-Manager/releases/download/v1.0.0/Nexora_Setup.exe",
     "changelog": [
         "Initial public release of Nexora",
         "Full mod search via Modrinth API",
