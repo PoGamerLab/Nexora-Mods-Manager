@@ -13,7 +13,7 @@
         "Modpack import and export"
     ],
     "critical": true,
-    "disabled": true,
+    "disabled": false,
     "message": "",
     "release_notes_url": "https://github.com/PoGamerLab/Nexora-Mods-Manager/releases/tag/v1.0.0"
 }
